@@ -1,40 +1,61 @@
-# Full Stack Developer Portfolio Website
+# AayanOnTech - Full Stack Developer Portfolio Website
 
-This project, built using MERN and Framer Motion, is a full stack portfolio application with complete management of website content through associated admin panel.
+Welcome to **AayanOnTech**, a professional full stack portfolio website built with the MERN stack and powered by Framer Motion. This project offers dynamic content management through an integrated admin panel, allowing seamless updates and control over the website.
 
-### Main Sections
+## 🔥 Key Features
 
-- Header
-- About
-- Services
-- Skills
-- Projects
-- Testimonials
-- Freelancing
-- Contact
-- Get Notified
+- Admin panel with full control over all sections
+- Animations powered by Framer Motion
+- Modern UI/UX with Tailwind CSS & Material UI
 
-### Admin Panel
+## 📌 Main Website Sections
 
-With the admin panel, admin gain complete control over the website to manage projects, services, testimonials, contact users, website content, and more—all from one convenient dashboard.
+- 🔝 Header
+- 👨‍💼 About
+- 🛠️ Services
+- 🧑‍💻 Blogs
+- 💬 Testimonials
+- 📬 Contact
 
-## Tech Stack
 
-- Frontend: React, Framer Motion, Tailwind CSS, Material UI
-- Backend: MERN Stack (MongoDB, Express.js, React.js, Node.js)
+## 🧑‍💼 Admin Panel Features
+
+Manage all website content directly from the admin dashboard:
+- Add/edit/delete services, projects, testimonials, and skills
+- View and respond to user messages
+- Customize about section, header text, and call-to-actions
+- Control visibility of various website sections
+
+## ⚙️ Tech Stack
+
+**Frontend:**
+- React.js
+- Tailwind CSS
+- Material UI
+- Framer Motion
+
+**Backend:**
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+- Multer (for file uploads)
+
+## 🚀 Getting Started
+
 
 ## Getting Started
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/naumanch969/fullstack-portfolio.git
+git clone https://github.com/yogesh087/Aayan-front.git
 ```
 
 2. Install dependencies:
 
 ```bash
-cd your-portfolio
+cd your-folder
 npm install
 ```
 
@@ -54,7 +75,16 @@ Contributions are welcome! If you have any suggestions, enhancements, or bug fix
 
 Have questions or feedback? Feel free to reach out to me:
 
-- Email: Yogesh852002@gmail.com
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/)
+- Email: yogesh852002@gmail.com
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yogesh619/)
 
 Thank you for visiting my repository and exploring my portfolio website! 😊🚀
+
+
+
+
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yogesh087/Aayan-front.git
+
