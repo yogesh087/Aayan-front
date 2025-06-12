@@ -1,4 +1,4 @@
-# AayanOnTech - Full Stack Developer Portfolio Website
+# AayanOnTech - Full Stack Developer business Website
 
 Welcome to **AayanOnTech**, a professional full stack Bussiness website built with the MERN stack and powered by Framer Motion. This project offers dynamic content management through an integrated admin panel, allowing seamless updates and control over the website.
 
@@ -77,13 +77,4 @@ Have questions or feedback? Feel free to reach out to me:
 - Email: yogesh852002@gmail.com
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yogesh619/)
 
-Thank you for visiting my repository and exploring my portfolio website! 😊🚀
-
-
-
-
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yogesh087/Aayan-front.git
-
+Thank you for visiting my repository and exploring my portfolio website! 
