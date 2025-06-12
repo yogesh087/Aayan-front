@@ -1,6 +1,6 @@
 # AayanOnTech - Full Stack Developer Portfolio Website
 
-Welcome to **AayanOnTech**, a professional full stack portfolio website built with the MERN stack and powered by Framer Motion. This project offers dynamic content management through an integrated admin panel, allowing seamless updates and control over the website.
+Welcome to **AayanOnTech**, a professional full stack Bussiness website built with the MERN stack and powered by Framer Motion. This project offers dynamic content management through an integrated admin panel, allowing seamless updates and control over the website.
 
 ## 🔥 Key Features
 
